@@ -1,3 +1,4 @@
+  
   Derivative of state "1" in block at time 10.24 is not finite. the simulation will be stopped. there may be a singularity in the solution. 
   If not, try reducing the step size(either by reducing the fixed step size or by tightening the error tolerancrs)
 
