@@ -1,0 +1,9 @@
+# Simulink build cache and backups
+work/
+slprj/
+*.slxc
+*.autosave
+*.autosave.zip
+*.original.zip
+*.r20*
+*.asv
