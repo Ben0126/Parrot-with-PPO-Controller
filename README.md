@@ -29,7 +29,7 @@ The base airframe, sensor and environment models and the project structure come 
 
 I designed the RL formulation of the altitude controller: the observation (input), the action (output)
 and the reward function, and iterated on it from April to October 2022 (network sizes, GAE, entropy
-weight, reward shaping). The PPO training scaffold existed before the first commit here. Results are
+weight, reward shaping). Results are
 reported in the co-authored papers listed in the companion repository; this repository has no
 evaluation logs.
 
